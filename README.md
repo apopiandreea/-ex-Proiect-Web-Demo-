@@ -1,6 +1,6 @@
 # Proiect-Web-Demo 
-▪ # Buna
-▪ ## Salut
-▪ *Ciao* sau **Bongiorno**
-▪ - grazia
-▪ 
+ # Bine
+ ## Numai decat
+ *Astazi* sau **Maine**
+ -
+ 
